@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmini_games"]=self["webpackChunkmini_games"]||[]).push([[938],{2938:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"xd"},[e._v("xd")])},u=[],l={name:"home",components:{}},a=l,i=t(1001),c=(0,i.Z)(a,s,u,!1,null,null,null),r=c.exports}}]);
+//# sourceMappingURL=938.c4dde2cc.js.map
